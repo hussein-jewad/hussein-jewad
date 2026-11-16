@@ -1,4 +1,4 @@
-# Hi, I'm Hussein 👋
+# Hi, I'm Hussein
 
 Second year Computer Engineering student  
 KTH Royal Institute of Technology – Civilingenjör Informationsteknik
